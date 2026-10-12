@@ -1,4 +1,3 @@
-# TP-Docker-Compose-MongoDB-Mongo-Express
 # TP Docker Compose – MongoDB + Mongo Express
 
 ⏱️ **Durée estimée : 1 heure**
